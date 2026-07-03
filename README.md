@@ -10,7 +10,7 @@ Atuo no desenvolvimento de soluções de alta performance e arquiteturas escalá
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,nodejs,express,nestjs,php,python,django,fastapi,flask,java,spring,c,cpp,postgres,mysql,mongodb,redis,supabase,firebase,docker,aws,azure,cloudflare,git,github,githubactions,linux,mint,ubuntu,debian,arch,figma&perline=13" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,nodejs,express,nestjs,php,python,django,fastapi,flask,java,spring,c,cpp,postgres,mysql,mongodb,redis,supabase,firebase,docker,aws,azure,cloudflare,gcp,git,github,githubactions,linux,mint,ubuntu,debian,arch,figma&perline=13" />
   </a>
 </p>
 
