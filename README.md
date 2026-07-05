@@ -1,8 +1,8 @@
 # Olá, me chamo Henry Ribeiro 👋
 
-###  Desenvolvedor Sênior Dart & Engenheiro de Software | Full-Stack & Systems
+###  Engenheiro de Software | Full-Stack & Systems
 
-Atuo no desenvolvimento de soluções de alta performance e arquiteturas escaláveis. Com forte domínio no ecossistema **Dart**, construo aplicações robustas integrando ecossistemas modernos de backend e ferramentas de automação. Focado em engenharia limpa, testes automatizados e otimização de infraestrutura.
+Atuo no desenvolvimento de soluções de alta performance e arquiteturas escaláveis. Com forte domínio no ecossistema **TypeScript**, construo aplicações robustas integrando ecossistemas modernos de backend e ferramentas de automação. Focado em engenharia limpa, testes automatizados e otimização de infraestrutura.
 
 ---
 
